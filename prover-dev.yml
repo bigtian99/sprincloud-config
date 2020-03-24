@@ -30,7 +30,5 @@ logging:
       bigtian:
         provider:
           dao: debug
-
 mybatis-plus:
   mapper-locations: classpath:mapperxml/*.xml
-
